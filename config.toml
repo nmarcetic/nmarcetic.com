@@ -16,8 +16,8 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
     author = "Nikola Marcetic"
-    description = "Nikola's personal website"
-    keywords = "blog,developer,personal"
+    description = "Nikola's Website - Senior Software Developer Journey"
+    keywords = "senior developer, solution architect, Europe, Serbia, freelance, consultancy, cloud-native, nmarcetic, resume, work, biography"
     info = "I help companies building truly scalable digital products using cloud-native technologies."
     position = "Senior Software Developer / Solution Architect"
     avatarurl = "images/me_avatar.jpg"
@@ -39,7 +39,7 @@ disqusShortname = "yourdiscussshortname"
     enableLineShare = false
     enableLinkedInShare = true
 
-    thumbnail = "images/tn.png"
+    thumbnail = "images/avatar.jpg"
 
     # Custom CSS
     custom_css = []
