@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nikola Marcetic</title>
+    <link>https://www.nmarcetic.com/</link>
+    <description>Recent content on Nikola Marcetic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://www.nmarcetic.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Work</title>
+      <link>https://www.nmarcetic.com/work/</link>
+      <pubDate>Wed, 11 Nov 2020 14:12:01 +0100</pubDate>
+      
+      <guid>https://www.nmarcetic.com/work/</guid>
+      <description>WIP - Coming soon</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://www.nmarcetic.com/contact/</link>
+      <pubDate>Wed, 11 Nov 2020 14:11:56 +0100</pubDate>
+      
+      <guid>https://www.nmarcetic.com/contact/</guid>
+      <description>Let&amp;rsquo;s get in touch
+Email: nmarcetic86@gmail.com</description>
+    </item>
+    
+    <item>
+      <title>Hi, I&#39;m Nikola. 👋</title>
+      <link>https://www.nmarcetic.com/about/</link>
+      <pubDate>Wed, 11 Nov 2020 14:04:48 +0100</pubDate>
+      
+      <guid>https://www.nmarcetic.com/about/</guid>
+      <description>Last six years, As an open-source evangelist, I am focused on industrial IoT, automation and secure data exchange in Industry 4.0 I was working closely with Enterprises in designing mission-critical, real-life IoT solutions.
+These days I am working on new ideas with the primary mission of building community first open IoT governance with shared ownership. A mission is to design and develop tools and technology for the enterprise, robust IoT solutions.</description>
+    </item>
+    
+  </channel>
+</rss>

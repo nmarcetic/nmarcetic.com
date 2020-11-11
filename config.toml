@@ -1,0 +1,102 @@
+baseurl = "https://www.nmarcetic.com"
+title = "Nikola Marcetic"
+
+theme = "coder-portfolio"
+
+DefaultContentLanguage = "en"
+
+paginate = 20
+
+pygmentsstyle = "b2"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+pygmentsUseClasses = true
+
+disqusShortname = "yourdiscussshortname"
+
+[params]
+    author = "Nikola Marcetic"
+    description = "Nikola's personal website"
+    keywords = "blog,developer,personal"
+    info = "I help companies building truly scalable digital products using cloud-native technologies."
+    position = "Senior Software Developer / Solution Architect"
+    avatarurl = "images/me_avatar.jpg"
+    footercontent = "If I press a keyboard keys in the right order, I can do anything!"
+    fixedbarContent = ""
+    fixedbarContentAfter = "Thank You! Please share it if you like it→"
+    googleAnalytics = "G-4YZ20LHWWE"
+
+    hideCredits = false
+    hideCopyright = false
+
+    # Bottom sns share
+    snsShare = true
+    # Popular sns share
+    # if you want add sns. please message!
+    enableTwitterShare = true
+    enableFacebookShare = false
+    enableHatenaShare = false
+    enableLineShare = false
+    enableLinkedInShare = true
+
+    thumbnail = "images/tn.png"
+
+    # Custom CSS
+    custom_css = []
+
+    # Alignment of Mobile Menu items
+    itemscentered = true
+
+    # RTL support
+    rtl = false
+
+    langseparator = "|"
+
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github"
+    weight = 1
+    url = "https://github.com/nmarcetic/"
+[[params.social]]
+    name = "Twitter"
+    icon = "fab fa-twitter"
+    weight = 2
+    url = "https://twitter.com/n_marcetic/"
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fab fa-linkedin"
+    weight = 3
+    url = "https://www.linkedin.com/in/marcetic/"
+
+[languages]
+    [languages.en]
+        languagecode = "en"
+        languagename = "English" # The language name to be displayed in the selector.
+        title = "Nikola Marcetic"
+
+        # You can configure the theme parameter for each language.
+        [languages.en.params]
+            author = "Nikola Marcetic"
+            info = "I help companies building truly scalable digital products using cloud-native technologies."
+            description = "Nikola's personal website"
+            keywords = "blog,developer,personal"
+
+        [languages.en.menu] # It is possible to change the menu too.
+
+            [[languages.en.menu.main]]
+                name = "About"
+                weight = 1.0
+                url = "about"
+
+            [[languages.en.menu.main]]
+                name = "Resume"
+                weight = 2
+                url = "pdf/Nikola_CV.pdf"
+            [[languages.en.menu.main]]
+                name = "Work"
+                weight = 3
+                url = "work"
+            [[languages.en.menu.main]]
+                name = "Contact me"
+                weight = 4
+                url = "contact"
