@@ -6,6 +6,8 @@ draft: false
 
 Let's get in touch
 
-Email: nmarcetic86@gmail.com
+**Email**: [nmarcetic86@gmail.com](mailto:nmarcetic86@gmail.com)
 
+Ready to talk? Feel free to book a time slot that suits best for you,
 
+[Schedule 30min Zoom call](https://calendly.com/nmarcetic/30min)
