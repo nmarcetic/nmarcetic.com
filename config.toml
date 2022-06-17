@@ -1,4 +1,4 @@
-baseurl = "https://www.nmarcetic.com"
+baseurl = "https://nmarcetic.github.io/nmarcetic"
 title = "Nikola Marcetic"
 
 theme = "coder-portfolio"
