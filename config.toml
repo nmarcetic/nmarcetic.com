@@ -3,6 +3,8 @@ title = "Nikola Marcetic"
 
 theme = "coder-portfolio"
 
+publishDir = "docs"
+
 DefaultContentLanguage = "en"
 
 paginate = 20
