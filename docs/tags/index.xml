@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Nikola Marcetic</title>
-    <link>https://www.nmarcetic.com/tags/</link>
+    <link>https://nmarcetic.com/tags/</link>
     <description>Recent content in Tags on Nikola Marcetic</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://www.nmarcetic.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://nmarcetic.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
