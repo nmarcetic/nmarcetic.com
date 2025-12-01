@@ -37,4 +37,4 @@ Technology is a tool — and I like operating at the bleading edge of what it ca
 
 ## What I’m Working On Now
 
-Coming soon — until then, my [Resume](../pdf/Nikola_CV.pdf) has the essentials.
+Coming soon — until then, my [Resume](../pdf/Nikola_CV.pdf) has the essentials...
