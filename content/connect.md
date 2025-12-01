@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "🔗 Connect"
 date: 2020-11-11T14:11:56+01:00
 draft: false
 ---

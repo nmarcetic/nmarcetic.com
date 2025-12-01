@@ -1,5 +1,5 @@
 ---
-title: "Hi, I'm Nikola. 👋"
+title: "👋 I'm Nikola."
 date: 2020-11-11T14:04:48+01:00
 draft: false
 ---
