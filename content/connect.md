@@ -8,6 +8,8 @@ Let's get in touch
 
 **Email**: [nmarcetic86@gmail.com](mailto:nmarcetic86@gmail.com)
 
+**Telegram**: @nmarcetic
+
 Ready to talk? Feel free to book a time slot that suits best for you,
 
-[Schedule 30min Zoom call](https://calendly.com/nmarcetic/30min)
+[Schedule 30min meet call](https://calendly.com/nmarcetic/meet)

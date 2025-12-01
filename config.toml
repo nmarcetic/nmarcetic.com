@@ -1,5 +1,5 @@
 baseurl = "https://nmarcetic.com"
-title = "Nikola Marcetic"
+title = "Nikola Marcetic | Building in Web3 / DeFi"
 
 theme = "coder-portfolio"
 
@@ -18,10 +18,10 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
     author = "Nikola Marcetic"
-    description = "Nikola's Website - Senior Software Developer Journey"
-    keywords = "senior developer, solution architect, Europe, Serbia, freelance, consultancy, cloud-native, nmarcetic, resume, work, biography"
-    info = "I help companies building truly scalable digital products using cloud-native technologies."
-    position = "Senior Software Developer / Solution Architect"
+    description = "Nikola's Website - Senior Software Developer / Web3 | DeFi"
+    keywords = "senior developer, solution architect, Europe, Serbia, freelance, consultancy, cloud-native, nmarcetic, DeFi, work, Crypto"
+    info = "TRAILBLAZING ON-CHAIN FINANCE."
+    position = "Senior Software Developer / Web3 | DeFi"
     avatarurl = "images/me_avatar.png"
     footercontent = "If I press a keyboard keys in the right order, I can do anything!"
     fixedbarContent = ""
@@ -79,7 +79,7 @@ disqusShortname = "yourdiscussshortname"
         # You can configure the theme parameter for each language.
         [languages.en.params]
             author = "Nikola Marcetic"
-            info = "I help companies building truly scalable digital products using cloud-native technologies."
+            info = "TRAILBLAZING ON-CHAIN FINANCE."
             description = "Nikola's personal website"
             keywords = "blog,developer,personal"
 
@@ -89,16 +89,15 @@ disqusShortname = "yourdiscussshortname"
                 name = "About"
                 weight = 1.0
                 url = "about"
-
+            [[languages.en.menu.main]]
+                name = "Lab"
+                weight = 2
+                url = "lab"
             [[languages.en.menu.main]]
                 name = "Resume"
-                weight = 2
+                weight = 3
                 url = "pdf/Nikola_CV.pdf"
             [[languages.en.menu.main]]
-                name = "Work"
-                weight = 3
-                url = "work"
-            [[languages.en.menu.main]]
-                name = "Contact me"
+                name = "Connect"
                 weight = 4
-                url = "contact"
+                url = "connect"
