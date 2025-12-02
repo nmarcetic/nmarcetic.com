@@ -31,9 +31,8 @@ disqusShortname = "yourdiscussshortname"
     hideCredits = false
     hideCopyright = false
 
-    # Bottom sns share
-    snsShare = true
-    # Popular sns share
+    # Bottom sns sfalse
+    snsShare = false    # Popular sns share
     # if you want add sns. please message!
     enableTwitterShare = true
     enableFacebookShare = false
